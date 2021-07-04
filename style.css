@@ -1,6 +1,7 @@
 body {
   font-family: cooper-black-std, serif;
   font-weight: 400;
+  margin: 0px;
 }
 
 h1 {
@@ -9,6 +10,14 @@ h1 {
 
 section {
   display: flex;
+}
+
+/* Classes  */
+
+.dream-big {
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
 }
 
 .half-width {
@@ -30,6 +39,11 @@ section {
   color: white;
   background-color: orange;
   border-radius: 10%;
+}
+
+.top-banner {
+  background-image: url(images/top-banner.png);
+  background-repeat: no-repeat;
 }
 
 .orange-color {
