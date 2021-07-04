@@ -1,7 +1,7 @@
 body {
   font-family: cooper-black-std, serif;
   font-weight: 400;
-  margin: 0px;
+  margin-left: 0px;
 }
 
 h1 {
@@ -17,6 +17,7 @@ footer {
 
 .flexible-container {
   display: flex;
+  justify-content: center;
 }
 
 .dream-big {
@@ -41,7 +42,7 @@ footer {
 }
 
 .half-width {
-  width: 40%;
+  width: 45%;
   padding: 2%;
 }
 
