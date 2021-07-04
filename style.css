@@ -8,11 +8,11 @@ h1 {
   font-size: xx-large;
 }
 
+/* Classes  */
+
 .flexible-container {
   display: flex;
 }
-
-/* Classes  */
 
 .dream-big {
   background-image: url(images/dream-bg.png);
